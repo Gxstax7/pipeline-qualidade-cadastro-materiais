@@ -14,6 +14,7 @@ Este documento descreve as regras de negócio e os critérios de validação apl
 Cada coluna possui restrições específicas que serão verificadas durante o processamento dos dados. Caso alguma regra seja violada, o registro poderá ser tratado automaticamente ou encaminhado para rejeição, conforme a regra implementada.
 
 | Campo | Obrigatório | Regra de Validação | Exemplo |
+|-------|-------------|--------------------|---------|
 |Descrição do Material|Sim|A descrição do material não precisa ser única|Motor Trifásico 220VCA|
 |Código do Material|Sim|Código Único com até 10 caracteres|MAT1958|
 |Código do Fornecedor|Sim|Deve estar associado a um código de fornecedor existente|FOR4124|
