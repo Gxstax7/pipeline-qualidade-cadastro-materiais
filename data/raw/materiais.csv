@@ -1,0 +1,13 @@
+codigo_material,descrição,preço,unidade,codigo_fornecedor,categoria,status
+MAT1,Motor Trifásico,8692.21,UN,FOR12,Elétrica,ativo
+MAT2,Parafuso Sextavado,0.25,UN,FOR133,Suplementos,inativo
+MAT8,Corrente dentada,250.21,Un,FOR123,Hidráulica,ativo
+MAT4,Tinta Preta,30.21,L,,Suplementos,inativo
+MAT4,Espuma Preenchedora,9.98,kg,FOR11,,ativo
+MAT6,,7.51,KG,,Consumo,
+MAT2,Parafuso Sextavado,"-9,20",granel,FOR133,Suplementos,inativo
+MAT1,Motor Trifásico,8692.21,UN,FOR12FFA,Elétrica,ativo
+MAT9214,Motor Trifásico,9841.21,UNIDADE,FOR12,,
+MAT104214,Bateria 12V,5.21,,FOR12,Suplement,inativo
+MAT1121,Tinta Azul,189.32,un,FOR124,Suplementos,ativo
+MAT12512,,,,FOR21,,ativo

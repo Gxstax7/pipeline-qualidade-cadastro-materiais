@@ -22,4 +22,5 @@ Cada coluna possui restrições específicas que serão verificadas durante o pr
 |Status|Sim|Deve ser ativo ou inativo|Ativo|
 |Preço|Sim|Deve ser maior que zero|159,90|
 |Unidade|Sim|Deve ser UN, M, KG, ou L, sem espaço excedente ao valor|15KG|
+|Status|Sim|Deve ser ativo ou inativa, sendo transformado para booleano|ativo (true)|
 |Validade|Condicional|Obrigatório apenas para materiais classificados como perecíveis. Deve conter a data de validade no formato MM/AAAA|06/2028|
